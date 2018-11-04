@@ -1,0 +1,19 @@
+#van-stepper button{
+    width: 0.786rem;
+    height: 0.693rem;
+    border: solid #A1A1A1 0.023rem;
+    color: #333;
+  }
+  #van-stepper input{
+    width: 0.786rem;
+    height: 0.610rem;
+    border-top: solid #A1A1A1 0.023rem;
+    border-bottom: solid #A1A1A1 0.023rem;
+    color: #333;
+    
+  }
+  #checkbox .van-icon{
+    width: 0.533rem;
+    height: 0.533rem;
+    line-height: 0.533rem;
+  }
